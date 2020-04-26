@@ -1,0 +1,2 @@
+# -Epitech-Workshop-CompressionBasics
+-Epitech-
